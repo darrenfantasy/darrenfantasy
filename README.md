@@ -1,5 +1,5 @@
 ### Hi there 👋
-![info](https://github-readme-stats.vercel.app/api?username=darrenfantasy&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=darrenfantasy&count_private=false&show_icons=true&hide=contribs&include_all_commits=true&theme=vue)
 
 <!--
 **darrenfantasy/darrenfantasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
